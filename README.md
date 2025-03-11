@@ -2,7 +2,9 @@
 
 # Minecraft-Beta1.2_78
 
-# まだ実況は開放されていません！！！
+# まだ実況は開放されていません！！！告知があるまで実況しないでください。
+
+# Please do not post to YouTube until further notice.
 
 ## 注意
 - このバージョンはMojang公式から実際に出されたものではなく、また公式に認定されたものでもありません。
@@ -11,7 +13,7 @@
 - MCPのライセンスによりコードは公開しません。
 - 点滅やドッキリ要素、ホラー音が多いです。やる際は十分注意してください。
 - かなり重いです。やる際はそれなりのCPUやビデオカードを搭載したPCをご用意ください。
-- 実況などで使う場合は、このバージョンのURLのクレジット表記をしてくれると嬉しいです。
+- 実況などで使う場合は、このバージョンのURLのクレジット表記をしてくれると嬉しいです。※まだしないでください
 
 ## Caution
 - This version was not actually released by Mojang, nor is it officially certified.
@@ -20,7 +22,7 @@
 - Due to the MCP license, the code will not be released.
 - There are many flashing, surprising elements, and horror sounds. Please be careful when playing.
 - It is quite heavy. Please prepare a PC with a decent CPU and video card when playing.
-- If you use this in a live commentary, etc., I would appreciate it if you could credit this version's URL.
+- If you use this in a live commentary, etc., I would appreciate it if you could credit this version's URL.※Please do not do this yet.
 
 ## 動かし方
 ### クライアント
